@@ -1,7 +1,1 @@
-streamlit
-transformers
-torch
-pdfplumber
-nltk
-gensim
-scikit-learn
+Data Analysis, Data Architecture, Azure Data Services, Azure Data Factory, Azure Data Lake, Data Lakehouse, Medallion Architecture, D365 CRM, Dynamics 365 CRM, Data Governance, Azure Purview, Unity Catalog, Data Mesh, Data Profiling, Data Cleansing, Business Intelligence, AI, Advanced Analytics, Data Quality Metrics, Data Security Frameworks, Self-Service Analytics,Functional Specification Documents, FSD, Business Requirements Documents, BRD, Solution Design Documents, SDD, Data Flow Diagrams,Insurance Industry, Policies, Requirement Gathering, Stakeholder Collaboration, Technical Specification Translation, Data Strategy Development
