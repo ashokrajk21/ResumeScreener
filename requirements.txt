@@ -1,6 +1,6 @@
-streamlit==1.22.0
-pdfplumber==0.7.6
-pandas==1.5.3
-plotly==5.10.0
-Pillow==9.3.0
-sentence-transformers==2.2.0
+streamlit
+pdfplumber
+pandas
+plotly
+Pillow
+sentence-transformers
