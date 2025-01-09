@@ -4,3 +4,4 @@ pandas
 plotly
 Pillow
 sentence-transformers
+openai
