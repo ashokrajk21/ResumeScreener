@@ -1,3 +1,5 @@
+import requests
+from PIL import Image
 import streamlit as st
 import pdfplumber
 from Models import get_HF_embeddings, cosine
