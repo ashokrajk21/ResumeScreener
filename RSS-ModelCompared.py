@@ -34,7 +34,7 @@ def keyword_check(resume_text, keywords):
 st.set_page_config(page_title="Applicant Tracking System", layout="wide")
 
 # Add the logo and description to the sidebar
-logo_url = "https://raw.githubusercontent.com/ashokrajk21/ResumeScreener/refs/heads/main/adnic_logo.png"
+logo_url = "https://raw.githubusercontent.com/ashokrajk21/ResumeScreener/refs/heads/main/RSSlogo.png"
 logo = Image.open(requests.get(logo_url, stream=True).raw)
 with st.sidebar:
     st.image(logo, width=200)
